@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Japji Sahib</string>
+        <string name="play_pause">Play/Pause</string>
+        <string name="expand">Expand</string>
+</resources>

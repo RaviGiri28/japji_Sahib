@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_about"
+        android:title="About"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_toggle_theme"
+        android:icon="@drawable/baseline_wb_sunny_24"
+        android:title="Light Mode"
+        app:showAsAction="always"/>
+</menu>

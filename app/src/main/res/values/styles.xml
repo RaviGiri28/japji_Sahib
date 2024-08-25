@@ -1,0 +1,16 @@
+<!-- styles.xml -->
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#DAA520</item>
+        <item name="colorPrimaryDark">#DAA520</item>
+        <item name="colorAccent">#FF4081</item>
+        <item name="android:textColorPrimary">#000000</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- No action bar -->
+    </style>
+
+</resources>
